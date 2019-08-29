@@ -1,2 +1,2 @@
 # CSS+DIV实现QQ企鹅log
-An important start
+并非原创，自己实现调整CSS样式并实现
